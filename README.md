@@ -1,6 +1,6 @@
-# Music sharing web app
+# Tune Share - a music sharing web app
 
-A music-sharing web application that allows users to upload music videos, like posts, and comment on them.  
+Tune Share is a music sharing web application that allows users to upload music videos, like posts, and comment on them.  
 Built utilizing the **Django** python framework, using **JS**, **CSS** and **HTML**.
 
 ## How to Run
