@@ -15,7 +15,7 @@ Built utilizing the **Django** python framework, using **JS**, **CSS** and **HTM
    ```bash
    python manage.py runserver
 
-## Screenshots.  
+## Screenshots
 <img width="2553" height="1506" alt="image" src="https://github.com/user-attachments/assets/707b7148-2ebb-4fed-9ce7-7bcb96cd1f1b" />
 
 <img width="2559" height="1326" alt="image" src="https://github.com/user-attachments/assets/d90767d0-d2f1-48ba-9e99-aa88ad36ffcc" />
